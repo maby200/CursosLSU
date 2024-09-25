@@ -1,0 +1,13 @@
+The sentence has two components: subject and predicate. The subject answers to the question "who or what is the sentence about?", Whereas the predicate, the question "What assertion does the sentence make about the subject?"
+
+There are four patterns in sentences:
+1. Subject + verb + optional adverb modifyers
+	In this pattern the verb is intransitive, which means that the verb is not transfering any action from a doer to a receiver.
+2. S + v + object direct
+	In this pattern the object direct can be spotted with subject + verb + what / whom
+3. s + v + subject complement
+	This is the pattern where the verbs are "linking verbs" and are followed by subject complements which can be identified replacing the verb with an equal sign.
+4. s + v + object complement
+whereas the subject complement describes subject of the sentence, object complement describes the direct object.
+5. S + v + IDO + DO
+If DO can be spotted with What? or Who?, the IDO can be found with To what or whom?
